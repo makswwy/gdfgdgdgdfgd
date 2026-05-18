@@ -2,8 +2,8 @@ from datetime import datetime
 import json
 
 group_token = "vk1.a.uXjX4k_KL5OnJHsf5sa1wxeY-EC4hAlbGezjuhI7lFhyB6VPECGS58XIeoPTtnpICMLWNz00yb8orFHUh0jOXmCJetD3KOJPQwckBLJ9ynCwzlQNP5JC0j1N4Yee2qrWu2IjslTnc-lgrq2OfVDfmQgkVQTUR0nImLazws9280jQ5N0d3lnDetTxAzuZan0iSqj5lXfj3L3uweFoyHGf0w"
-group_id = 237303045
-COMMUNITY_MESSAGES_LINK = "https://vk.ru/im?sel=-237303045"
+group_id = 238815147
+COMMUNITY_MESSAGES_LINK = "https://vk.ru/im?sel=-238815147"
 cd_min = 240
 interval_sec = 0.01
 additional_texts = []
@@ -42,8 +42,8 @@ MAIN_TEXT_RATES.update({
 })
 
 # ID сообщества для обязательной подписки
-SUBSCRIPTION_CHANNEL_ID = 237218521
-SUBSCRIPTION_CHANNEL_LINK = "https://vk.com/club237218521"
+SUBSCRIPTION_CHANNEL_ID = 238815147
+SUBSCRIPTION_CHANNEL_LINK = "https://vk.com/club238815147"
 
 # Конфигурация для отправки сообщений
 MESSAGE_CONFIG = {
