@@ -1,7 +1,7 @@
 from datetime import datetime
 import json
 
-group_token = "vk1.a.uXjX4k_KL5OnJHsf5sa1wxeY-EC4hAlbGezjuhI7lFhyB6VPECGS58XIeoPTtnpICMLWNz00yb8orFHUh0jOXmCJetD3KOJPQwckBLJ9ynCwzlQNP5JC0j1N4Yee2qrWu2IjslTnc-lgrq2OfVDfmQgkVQTUR0nImLazws9280jQ5N0d3lnDetTxAzuZan0iSqj5lXfj3L3uweFoyHGf0w"
+group_token = "vk1.a.MlVr-pzQhmQd9vb8PZBmA-gkBX6bsVsjltgV1azfglDejqNwKhusPbFRWyii8oHmMB1I5eTlXTBmKPRovaP2X4ba7PMilZJ7UV9NnniibRX_IZEMU41EH5Sp4Bbm4rolBm8LBPMnxcv_hgIvQLqqwIMiQ5fvi6bCgTy4e9OejLLubHjuoLZtI-LI-QkRfn3RYbeqBglp8SHkBTsnDaAtBQ"
 group_id = 238815147
 COMMUNITY_MESSAGES_LINK = "https://vk.ru/im?sel=-238815147"
 cd_min = 240
